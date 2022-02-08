@@ -2,6 +2,7 @@ package org.zefiro.algoritmi.liste;
 
 public class Canzone {
 
+	
 	private String titolo;
 	private String autore;
 	private String genere;
